@@ -4,8 +4,6 @@
 
 ## DEMO
 
-![](gif/Demo1.gif)
-
 ### Tools used:
 
 - Webpack
