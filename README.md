@@ -4,7 +4,6 @@
 
 ## DEMO
 
-![](gif/Demo.gif)
 ![](gif/Demo1.gif)
 
 ### Tools used:
